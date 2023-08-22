@@ -1,0 +1,34 @@
+.footer-img{
+    height: 100px;
+    width: 170px;
+  
+}
+.foot{
+padding-top: 10px; 
+    
+}
+.footer-background{
+    background-color: rgb(201, 199, 199);
+   
+
+}
+@media (min-width: 100px) and (max-width: 601px) {
+    .footer-background {
+   width: 100%;
+   height: 0px;
+
+    }
+    
+  }
+@media (min-width: 100px) and (max-width: 601px) {
+    .foot {
+   
+   padding-top: 50px;
+ 
+    }
+    
+  }
+  .business{
+    color: black;
+    text-align: left;
+  }
