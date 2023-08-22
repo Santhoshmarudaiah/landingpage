@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const setToggle = () => {
+const modal = () => {
 
   //Using Inline Function and the The Logical Not (!) to toggle state
   const [toggle, setToggle] = useState(true)
